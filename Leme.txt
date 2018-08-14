@@ -1,0 +1,3 @@
+Como crear un repositorio con una rama adicional:
+primero hacemos un git checkout -b con -nombre_de_rama- para asi crear una nueva branch
+para switchear de branches necesitas hacer un git checkout con el nombre de la rama a la que quieres switchear
